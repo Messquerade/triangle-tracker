@@ -4,3 +4,8 @@
 #Nope {
   display: none;
 }
+
+.btn {
+  border: solid blue;
+  padding: 3px;
+}
